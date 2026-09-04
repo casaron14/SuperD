@@ -538,6 +538,22 @@ section {
     color: var(--color-gold);
 }
 
+.social-link--facebook svg {
+    color: var(--color-espresso);
+}
+
+.social-link--facebook:hover svg {
+    color: var(--color-gold);
+}
+
+.social-link--linkedin svg {
+    color: var(--color-espresso);
+}
+
+.social-link--linkedin:hover svg {
+    color: var(--color-gold);
+}
+
 /* ========================================
        APP DOWNLOAD CTA
        ======================================== */
