@@ -282,8 +282,9 @@ section {
     font-weight: 400;
     line-height: 1.6;
     color: var(--color-espresso-soft);
-    max-width: 520px;
+    max-width: 480px;
     margin-bottom: var(--space-sm);
+    text-align: justify;
 }
 
 .hero__contact {
